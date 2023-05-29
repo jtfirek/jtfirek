@@ -7,7 +7,7 @@
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 - 🚀 Currently, I'm working as a part time contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
-  - Essential Eth is designed from the ground up to be 20x smaller than ethers.js and web3.js
+  - Essential Eth is a replacement for ethers.js and web3.js that is 20x smaller
 - 📚 I will be attending The Polkadot Blockchain Academy this July! Excited to learn about all things Rust and Substrate!
 
 
