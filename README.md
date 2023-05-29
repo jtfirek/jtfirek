@@ -1,7 +1,13 @@
 # Hi there, I'm Jacob Firek! 👋
 
-I'm a CS graduate from the University of Michigan. I code in ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) Currently, I'm contributing to Essential Eth and super excited about enhancing my skills further in Rust and Substrate at The Polkadot Blockchain Academy this July. 
+## 👨‍🎓 About Me:
 
+- 🎓 I'm a CS graduate from the University of Michigan
+- 💻 I code in 
+  - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+- 🚀 Currently, I'm contributing to Essential Eth
+- 🎯 I'm super excited about enhancing my skills further in Rust and Substrate at The Polkadot Blockchain Academy this July.
 
 
 
