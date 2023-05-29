@@ -23,5 +23,4 @@ I'm passionate about programming and love to explore new tech stacks and framewo
 
 - [Essential Eth](https://github.com/essential-eth) 
 
-I'm always open to interesting conversations and collaboration. Feel free to reach out if you’d like to chat!
 
