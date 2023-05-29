@@ -1,4 +1,4 @@
-# Hi there, I'm Jacob Firek! 👋
+# Hello World, I'm Jacob Firek! 👋
 
 ## About Me:
 
