@@ -1,18 +1,18 @@
 # Hi there, I'm Jacob Firek! 👋
 
-## 👨‍🎓 About Me:
+## About Me:
 
-- 🎓 I'm a CS graduate from the University of Michigan.
-- 💻 I code in: 
+- I'm a CS graduate from the University of Michigan.
+- I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-- 🚀 Currently, I'm working as a part time contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
+- Currently, I'm working as a part time contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
   - Essential Eth is a replacement for ethers.js and web3.js that is 20x smaller.
-- 📚 I will be attending The Polkadot Blockchain Academy this July. Excited to learn about all things Rust and Substrate!
+- I will be attending The Polkadot Blockchain Academy this July. Excited to learn about all things Rust and Substrate!
 - My faviorite protocol is [The Graph](https://thegraph.com/). I am an advocate for them!
 
 
-## 🌐 Connect with me:
+## Connect with me:
 
 I post and write about The Graph, Rust, and how I am turning my college groupchat into a DAO!
 
