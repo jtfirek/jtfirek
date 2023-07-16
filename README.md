@@ -6,7 +6,7 @@
 - I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-- Just finished working as a part time contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
+- Just finished working as a contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
   - Essential Eth is a replacement for ethers.js and web3.js that is 20x smaller.
 - I'm currently at the Polkadot Blockchain Academy. Learning about all things Rust and Substrate!
 - My faviorite protocol is [The Graph](https://thegraph.com/). I am an advocate for them!
