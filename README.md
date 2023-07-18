@@ -9,7 +9,6 @@
 - Just finished working as a contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
   - Essential Eth is a replacement for ethers.js and web3.js that is 20x smaller.
 - I'm currently at the Polkadot Blockchain Academy. Learning about all things Rust and Substrate!
-- My faviorite protocol is [The Graph](https://thegraph.com/). I am an advocate for them!
 
 
 ## Connect with me:
