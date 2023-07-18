@@ -13,8 +13,6 @@
 
 ## Connect with me:
 
-I post and write about The Graph and how I am turning my college groupchat into a DAO!
-
 <a href="https://www.linkedin.com/in/jacob-firek-4423741b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jacob%20Firek-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/jacob_firek"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-jacob_firek-blue?style=flat-square&logo=twitter"></a>
 <a href="https://medium.com/@firekjt"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40firekjt-lightgrey?style=flat-square&logo=medium"></a>
