@@ -7,7 +7,7 @@
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
-## Web3 things I have done / am working on
+## Web3 things I have done
 - Contractor on [Essential Eth](https://eeth.dev/). I built a new test suite and the new docs site!
 - I went to the Polkadot Blockcahin Academy where I built a [Uniswap V2 style DEX Appchain](https://github.com/jtfirek/Uniswap-V2-DEX-PBA-Final) using substrate and rust for my final project.
 
