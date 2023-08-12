@@ -9,7 +9,7 @@
 
 ## Web3 things I have done / am working on
 - Contractor on [Essential Eth](https://eeth.dev/). I built a new test suite and the new docs site!
-- I when to the polkadot blockcahin academy where I built a [Uniswap V2 style DEX appchain](https://github.com/jtfirek/Uniswap-V2-DEX-PBA-Final) using substrate and rust.
+- I when to the polkadot blockcahin academy where I built a [Uniswap V2 style DEX Appchain](https://github.com/jtfirek/Uniswap-V2-DEX-PBA-Final) using substrate and rust.
 ## Connect with me:
 
 
