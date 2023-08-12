@@ -6,11 +6,10 @@
 - I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-- Just finished working as a contractor on [Essential Eth](https://github.com/dawsbot/essential-eth) 
-  - Essential Eth is a replacement for ethers.js and web3.js that is 20x smaller.
-- I'm currently at the Polkadot Blockchain Academy. Learning about all things Rust and Substrate!
 
-
+## Web3 things I have done / am working on
+- Contractor on [Essential Eth](https://eeth.dev/). I built a new test suite and the new docs site!
+- I when to the polkadot blockcahin academy where I built a [Uniswap V2 style DEX appchain](https://github.com/jtfirek/Uniswap-V2-DEX-PBA-Final) using substrate and rust.
 ## Connect with me:
 
 
