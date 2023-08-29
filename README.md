@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- I'm a CS graduate from the University of Michigan.
+- I'm a CS graduate from the University of Michigan and an engineer on the database team at Epic Systems
 - I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
