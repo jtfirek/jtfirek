@@ -1,6 +1,6 @@
 # Hello World, I'm Jacob Firek! 👋
 
-## Aboutme 
+## About me
 - I am a Software Engineer at Epic Systems, but blockchain development is my passion!
 - I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
