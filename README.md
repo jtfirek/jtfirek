@@ -1,12 +1,12 @@
 # Hello World, I'm Jacob Firek! 👋
 
 ## About me
-- I am a Software Engineer at Epic Systems, but blockchain development is my passion!
+- I am a Software Engineer at Epic Systems
 - I code in: 
   - ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
-## Web3 things I have done
+## Things I have worked on
 - Contractor on [Essential Eth](https://eeth.dev/). I built a new test suite and updated the docs site!
 - I went to the Polkadot Blockcahin Academy where I built a [Uniswap V2 style DEX Appchain](https://github.com/jtfirek/Uniswap-V2-DEX-PBA-Final) using substrate and rust for my final project.
 
